@@ -1,3 +1,21 @@
+<!-- MUBTKIR-UNIFIED-README-START -->
+## تقارير المخزون والمبيعات المخصصة | Mu Inventory Custom Reports
+
+حزمة تقارير مخصصة للمخزون وحركة الأصناف والمبيعات على إطار عمل Frappe/ERPNext.
+* **الفئة المستهدفة:** مديري المستودعات وفرق المبيعات والمشتريات.
+
+Custom inventory, stock movement, and sales analytics reports for Frappe/ERPNext.
+* **Target Audience:** Warehouse managers, inventory controllers, and sales teams.
+
+### تواصل معنا | Contact & Sales — [مبتكر للأنظمة السحابية | Mubtkir ERP](https://mubtkir.com)
+
+* 🌐 **الموقع الرسمي | Website:** [Mubtkir ERP — حلول ERPNext السحابية](https://mubtkir.com)
+* 📧 **البريد الإلكتروني | Email:** [sales@mubtkir.com](mailto:sales@mubtkir.com)
+* 📱 **الجوال | Mobile:** [+966547706865](tel:+966547706865)
+* 💬 **واتساب | WhatsApp:** [+966126810486](https://wa.me/966126810486)
+
+<!-- MUBTKIR-UNIFIED-README-END -->
+
 ### Inv Custom Reports
 
 Frappe Custom Reports For Innovative Smart Vision
